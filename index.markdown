@@ -6,30 +6,28 @@ layout: home
 ---
 <center>
 <div style = "
-    padding: 300px
+    padding: 200px
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;"
-> 
-    <img src="skyboy.jpg"  style = "height: 300px">
+    width: 70%;"
+>
+    <img src="cute.jpg"  style = "height: 400px">
 </div>
- 
-<p>
-Ever heard of the Halo Effect?
-</p>
-
-
-<p>
-    I hope you find me <strong>INSANELY</strong> attractive and use this as a heuristic to judge my other qualities. <br> In any case, I am in fact as perfect as I seem.
-</p>
-<p>
-    <br>
-    Warm reguards,
-    <br>
-    Oliver
-</p>
-<br>
-<br>
-Sent from my iphone
+<div style = "padding: 20px; padding-left: 150px; padding-right: 150px;">
+    <p>
+        Hello friends! 
+    </p>
+    <p>
+        I'm Ollie. I'm a 2nd year Computer Science student at UNSW. 
+    </p>
+    <p>
+        When I'm not studying I like to  <strong><a href="https://ollieiswoke.github.io/blog/tech/">work on my own tech projects</a></strong>, so I can teach myself new things.
+    </p>
+    <p>
+        I also like to 
+        <strong> <a href="https://ollieiswoke.github.io/blog/music/">make music</a></strong>
+        in my spare time.
+    </p> 
+</div>
 </center>
